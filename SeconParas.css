@@ -1,0 +1,10 @@
+.main-container{
+    height: 100vh;
+    width:100vw;
+    background-color:red;
+}
+.inner-container{
+    height: 40vh;
+    width:40vw;
+    background-color:white;
+}
